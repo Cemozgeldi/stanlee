@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+   /* border: 2px solid red; */
+    width: 80%;
+    margin: auto;
+    background-color: rgb(51, 50, 50);
+    border-radius: 20px;
+}
+
+#title{
+    text-align: center;
+    font-size: 80px;
+    color: whitesmoke
+}
+
+.heading{
+    font-family: 'Lobster', cursive;
+}
+
+#span1{
+    color: rgb(251, 46, 46);
+}
+
+#img-div{
+    text-align: center;
+}
+
+#image{
+    width: 70%;
+    margin: auto;
+    display: block;
+    border-radius: 50px;
+}
+
+#info{
+    text-align: justify;
+    width: 80%;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+#marvel{
+    color: rgb(251, 46, 46);
+    padding-left: 7rem;
+}
+
+ul{
+    width: 80%;
+    margin: auto;
+    list-style-type: square;
+}
+
+li{
+    font-size: 18px;
+    line-height: 1.5rem;
+}
+
+#footer{
+    margin: 2rem;
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+#link{
+    border: 2px darkgoldenrod;
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: rgb(78, 76, 76);
+    color: darkorange;
+}
+
+#link:hover{
+    background-color: black;
+    color: whitesmoke;
+}
